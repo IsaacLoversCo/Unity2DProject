@@ -18,6 +18,7 @@ public class PlayerControls : MonoBehaviour
 	public LayerMask whatIsGround;
 	public float jumpForce = 700f;
 	public float doubleJumpForce = 400f;
+
 	public bool firstJump;
 	public static bool isDebut = true;
 
